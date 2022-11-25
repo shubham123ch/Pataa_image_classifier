@@ -1,0 +1,1 @@
+for more :https://dev.to/paulwababu/build-an-image-classification-api-using-django-rest-framework-4ned
