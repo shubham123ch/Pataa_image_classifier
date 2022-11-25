@@ -1,5 +1,5 @@
 # Picture-lytics
-Using Google's teachable machine to generate an image classification model and serving the model via streamlit. The classification tasks will be brain MRI tumor classification and Plant disease classification <br/>
+Using Google's teachable machine to generate an image classification model and serving the model via streamlit. The classification tasks will be brain MRI tumor classification and Plant disease classification. <br/>
 # Links to datasets used: <br/>
 1. Plant disease dataset: https://www.kaggle.com/vipoooool/new-plant-diseases-dataset <br/>
 2. Brain tumor dataset: https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection <br/>
