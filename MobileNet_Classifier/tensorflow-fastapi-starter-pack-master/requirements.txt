@@ -7,3 +7,4 @@ gunicorn
 uvicorn
 numpy
 python-multipart
+# https://towardsdatascience.com/image-classification-api-with-tensorflow-and-fastapi-fc85dc6d39e8
